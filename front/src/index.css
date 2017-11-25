@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+canvas {
+  border: 2px solid grey;
+  margin: 15px;
+  border-radius: 7px;
+  touch-action: pinch-zoom;
+}
+
+.header {
+  margin-left: 10%;
+}
