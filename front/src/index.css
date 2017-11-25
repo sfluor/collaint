@@ -10,7 +10,3 @@ canvas {
   border-radius: 7px;
   touch-action: pinch-zoom;
 }
-
-.header {
-  margin-left: 10%;
-}
